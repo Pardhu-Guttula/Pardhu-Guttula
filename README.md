@@ -31,6 +31,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="50" height="50"/>
     <img src="https://skillicons.dev/icons?i=java" />
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=kubernetes" />
     <img src="https://skillicons.dev/icons?i=linux" />
     <img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="50" height="50"/>
     <img src="https://skillicons.dev/icons?i=mysql" />
