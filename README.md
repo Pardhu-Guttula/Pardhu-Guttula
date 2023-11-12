@@ -4,11 +4,15 @@
 </p> -->
 <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="coder's_gif">
+    
 </p>
 
 
 
-<h1 align="center">Hola <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif"> I am Pardhu </h1>
+<div align="center" style="display: flex;">
+    <h1 >Hola, I'm Pardhu </h1> 
+    <p><img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif"></p>
+</div>
 
 
 <!--
