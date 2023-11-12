@@ -1,10 +1,10 @@
 
-<p align="center">
+<!--<p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890.gif" alt="coder's_gif">
-</p>
-<!-- <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="coder's_gif">
 </p> -->
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="coder's_gif">
+</p>
 
 
 
