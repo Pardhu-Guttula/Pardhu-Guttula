@@ -23,6 +23,7 @@
 <!--tech stack icons-->
 <p align="center">
     <img src="https://skillicons.dev/icons?i=aws" />
+    <img src="https://skillicons.dev/icons?i=ansible" />
     <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="50" height="50"/>
     <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="50" height="50"/>
     <img src="https://skillicons.dev/icons?i=discord,docker" />
