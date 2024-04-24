@@ -36,7 +36,8 @@
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" height="50"/>
     <img src="https://skillicons.dev/icons?i=kubernetes" />
     <img src="https://skillicons.dev/icons?i=linux" />
-    <img width="64" height="64" src="https://img.icons8.com/dusk/64/power-bi.png" alt="power-bi"/>
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-power-apps.png" alt="microsoft-power-apps"/>
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
     <img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="50" height="50"/>
     <img src="https://skillicons.dev/icons?i=mysql" />
     <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" height="50"/>
